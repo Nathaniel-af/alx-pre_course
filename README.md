@@ -1,1 +1,1 @@
-**Strong**_Strong_
+**Strong**__weak__
